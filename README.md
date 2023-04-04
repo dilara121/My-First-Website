@@ -1,2 +1,2 @@
 # My First Website
-  I hope it won't be the last
+  I hope it won't be the last :)
